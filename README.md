@@ -28,11 +28,12 @@ Software requirement is a field within Software Engineering that deals with esta
 
 ![Upload](https://github.com/user-attachments/assets/192b8e95-3527-43ec-a564-c19604fee601)
 
-![imageupload](https://github.com/user-attachments/assets/1b2f20a3-fb8e-47fa-a126-774a26de844e)
+
 
 ### Result Page
 
-![result](https://github.com/user-attachments/assets/eb0e7c7f-53aa-4c62-95ec-2f32391b1c32)
+![image](https://github.com/user-attachments/assets/7ba52dbd-6046-4e33-9bd2-ace5417edffd)
+
 
 ## Use Case Diagram
 ![Mind Maps (4)](https://github.com/user-attachments/assets/0655a307-4f80-4bb7-9725-174a4b5a1e61)
