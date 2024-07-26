@@ -34,6 +34,9 @@ Software requirement is a field within Software Engineering that deals with esta
 
 ![image](https://github.com/user-attachments/assets/7ba52dbd-6046-4e33-9bd2-ace5417edffd)
 
+![image](https://github.com/user-attachments/assets/13c1e5e1-b273-402f-a667-bc99cd5b4143)
+
+
 
 ## Use Case Diagram
 ![Mind Maps (4)](https://github.com/user-attachments/assets/0655a307-4f80-4bb7-9725-174a4b5a1e61)
