@@ -1,7 +1,7 @@
 # Insect-Pest-Image-Recognition-and-Maturity-Stage-Classification-using-Few--shot-Learning-Approach
 
 ## Project Overview
-This project focuses on the development of a machine learning model to accurately recognize different insect pest species under varying environmental conditions. The model extends its capabilities to classify the maturity stages of identified insect pests, ranging from eggs to fully mature adults. To make this technology accessible and user-friendly, a mobile application or web platform will be created, enabling agricultural experts to capture pest images in real-time. This initiative aims to promote sustainable agriculture by reducing the reliance on chemical pesticides and minimizing crop damage.
+This project focuses on the development of a machine learning model to accurately recognize different insect pest species under varying environmental conditions. The model extends its capabilities to classify the maturity stages of identified insect pests, ranging from eggs to fully mature adults. And also it suggests the suitable pesticide for the insect pest. To make this technology accessible and user-friendly, a mobile application or web platform will be created, enabling agricultural experts to capture pest images in real-time. This initiative aims to promote sustainable agriculture by reducing the reliance on chemical pesticides and minimizing crop damage.
 
 ## Objectives
 - To develop a machine learning model that can accurately recognize different insect pest species under varying environmental conditions.
@@ -20,23 +20,24 @@ Software requirement is a field within Software Engineering that deals with esta
 
 ### Main Interface
 
-![223](https://github.com/akshau12a/insect_detection/assets/92288367/777ae3b3-f18c-40ec-9584-dd60095f80dd)
-
+![main](https://github.com/user-attachments/assets/26b0e950-9a9e-48de-9893-96508f27d342)
 
 
 ### Image Uploading
 
-![21](https://github.com/akshau12a/insect_detection/assets/92288367/e59b84ca-9a42-43e3-a3ae-9053015f05a4)
+
+![Upload](https://github.com/user-attachments/assets/192b8e95-3527-43ec-a564-c19604fee601)
+
+![imageupload](https://github.com/user-attachments/assets/1b2f20a3-fb8e-47fa-a126-774a26de844e)
+
+### Result Page
+
+![result](https://github.com/user-attachments/assets/eb0e7c7f-53aa-4c62-95ec-2f32391b1c32)
+
+## Use Case Diagram
+![Mind Maps (4)](https://github.com/user-attachments/assets/0655a307-4f80-4bb7-9725-174a4b5a1e61)
 
 
-### Maturity Stage Classification
-
-![Capture78](https://github.com/akshau12a/insect_detection/assets/92288367/2c95858b-ebc7-4d96-a571-bf244475dd29)
-
-
-## Use Case Diagram![Use Case Diagram]
-
-![Use Case Diagram](https://github.com/akshau12a/insect_detection/assets/92288367/a9211079-6b9b-42ad-9d2b-6bbd924a4c03)
 
 
 
